@@ -39,6 +39,7 @@ nav ul{
 nav ul li{
     padding: 0 2%;
     color:  #faf7e3;
+    list-style:none;
 
 }
 header a {
