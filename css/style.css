@@ -1,0 +1,214 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>ホーム</title>
+<link href="css/reset.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+<!-----------ヘッダー------------->
+<header class="site-header">
+  <div class="site-header_wrapper">
+    <div class="site-header_start">
+      <a href="index.html" class="logo"><img src="img/ALTER.png" alt="ブランドロゴ"></a>
+    </div>
+    <nav>
+        <ul>
+          <li>
+            <a href="aboutus/about.us.html">About Us</a>
+          </li>
+          <li>
+            <a href="all/all.products.html">Collection</a>
+          </li>
+          <li>
+            <a href="access/access.html">Access</a>
+          </li>
+          <li>
+            <a href="service/">Service</a>
+          </li>
+          <li>
+          <a href="admin/account-login.html">Account</a>
+          </li>
+        </ul>
+    </nav>
+  </div>
+</header>
+  <!-----------ヘッダーここまで------------->
+  <!---------------メインセクション------------------>
+  <main>
+    <div class="key-visual">
+      <div class="text-box">
+        <div class="catchphrase"><h1>Welcome to Alter Jewelry</h1></div>
+        <div class="massage"><p>Discover our beautiful collection of handcrafted jewelry<br> made with love and care from the finest materials.</p></div>
+        <p><a href="all/all.products.html" class="button1">Shop Now</a></p>
+      </div>
+    </div>
+    <section>
+      <div class="title-box">
+        <div class="title1"><h2>ピックアップ</h2></div>
+        <div class="title2"><h3>PICK UP ITEMS</h3></div>
+      </div>
+      <div class="line1">
+        <ul>
+          <li>
+            <a href="/products-detail/products.detail.html">
+              <img src="img/スライス用_07.jpg" class="product-image1" alt="Product Name">
+              <h3>Product1</h3>
+              <span>￥XX,XXX</span>
+            </a>
+          </li>
+          <li>
+            <a href="/products-detail/products.detail.html">
+              <img src="img/スライス用_22.jpg" class="product-image2" alt="Product Name">
+              <h3>Product2</h3>
+              <span>￥XX,XXX</span>
+            </a>
+          </li>
+          <li>
+            <a href="/products-detail/products.detail.html">
+              <img src="img/スライス用_09.jpg" class="product-image3" alt="Product Name">
+              <h3>Product3</h3>
+              <span>￥XX,XXX</span>
+            </a>
+          </li>
+          <li>
+            <a href="/products-detail/products.detail.html">
+              <img src="img/スライス用_13.jpg" class="product-image4" alt="Product Name">
+              <h3>Product4</h3>
+              <span>￥XX,XXX</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="line2">
+        <ul>
+          <li>
+            <a href="/products-detail/products.detail.html">
+             <img src="img/スライス用_11.jpg" class="product-image5" alt="Product Name">
+              <h3>Product5</h3>
+             <span>￥XX,XXX</span>
+            </a>
+          </li>
+          <li>
+            <a href="/products-detail/products.detail.html">
+              <img src="img/スライス用_19.jpg" class="product-image6" alt="Product Name">
+              <h3>Product6</h3>
+              <span>￥XX,XXX</span>
+            </a>
+          </li>
+          <li>
+            <a href="/products-detail/products.detail.html">
+             <img src="img/スライス用_21.jpg" class="product-image7" alt="Product Name">
+             <h3>Product7</h3>
+              <span>￥XX,XXX</span>
+            </a>
+          </li>
+          <li>
+            <a href="/products-detail/products.detail.html">
+              <img src="img/スライス用_23.jpg" class="product-image8" alt="Product Name">
+              <h3>Product8</h3>
+              <span>￥XX,XXX</span>
+            </a>
+          </li>
+        </ul>
+      </div> 
+    </section>
+    <section>
+      <div class="title-box">
+        <div class="title3"><h2>コレクション</h2></div>
+        <div class="title4"><h3>COLLECTION</h3></div>
+      </div>
+      <div class="box3">
+        <div class="necklace">
+          <a href="/all/all.products.html">
+          <img src="img/gio-bartlett-tS7vQ6apZaM-unsplash.jpg" class="necklace-image" alt="ネックレス画像">
+          <h1>ネックレス・ペンダント</h1>
+        </a>
+        </div>
+        <div class="ring">
+          <a href="/all/all.products.html"></a>
+            <img src="img/maddi-bazzocco-lk7s8i5NdqE-unsplash.jpg" class="ring-image" alt="リング画像">
+            <h1>リング</h1>
+        </a>
+        </div>
+      </div>
+    </section>
+    <section class="initiative">
+      <div class="environment-photo1"><img src="img/スライス用_77.jpg" alt="水面の画像"></div>
+      <div class="environment-photo3"><img src="img/raw.png" alt="森の画像"></div>
+      <div class="environment-photo2"><img src="img/スライス用_81.jpg" alt="パラジウムの画像"></div>
+      <div class="initiative-massage">
+        <div class="massage-box">
+          <h1>環境への配慮</h1>
+          <h2>Our Mission</h2>
+        </div>
+        <div class="massage-box2">
+          <h1>"ジュエリーの輝きと地球環境の<br>輝きを両立させる"</h1>
+          <p>環境にやさしい素材と製造方法を使用し、<br>地球環境と調和しながら美しさと輝きを生み出すジュエリーを提供しています。</p>
+        </div>
+        <a href="/palladium/palladium&initiative.html">LEARN MORE>></a>
+      </div>
+    </section>
+    <section class="gallery">
+      <div class="title-box">
+        <div class="title5"><h1>ギャラリー</h1></div>
+        <div class="title6"><h2>Gallery</h2></div>
+      </div>
+        <ul class="gallery-frame">
+          <li><img src="img/スライス用_37.jpg" alt=""></li>
+          <li><img src="img/スライス用_39.jpg" alt=""></li>
+          <li><img src="img/スライス用_41.jpg" alt=""></li>
+          <li><img src="img/スライス用_45.jpg" alt=""></li>
+          <li><img src="img/スライス用_52.jpg" alt=""></li>
+          <li><img src="img/スライス用_49.jpg" alt=""></li>
+          <li><img src="img/スライス用_56.jpg" alt=""></li>
+          <li><a href="gallery/Gallery.html">VIEW MORE>></a></li>
+        </ul>
+    </section>
+  </main>
+  <!---------------メインセクションここまで------------------>
+  <!---------------フッター---------------------->
+  <footer>
+    <div class="site-footer_wrapper">
+      <div class="footer-left">
+        <a href="index.html"><img src="img/ALTER.png" class="brand-logo" alt="ブランドロゴ"></a>
+        <div class="box1">
+          <p><a href="privacy/privacy-policy.html">プライバシーポリシー</a></p>
+          <p><a href="terms/terms-and-conditions.html">利用規約</a></p>
+        </div>
+        <h1>SNS</h1>
+        <div class="box2">
+          <a href=""><img src="img/インスタグラムのシンプルなロゴのアイコン 2.png" alt="インスタグラム"></a>
+          <a href=""><img src="img/Twitterのアイコン素材 2.png" alt="ツイッター"></a>
+          <a href=""><img src="img/kkrn_icon_youtube_3.png" alt="ユーチューブ"></a>
+          <a href=""><img src="img/シェアボタンのアイコン素材 1.png" alt="シェアボタン"></a>
+        </div>
+      </div>
+      <div class="footer-middle1">
+        <h1>ブランドについて</h1>
+        <p><a href="aboutus/about.us.html">ブランドヒストリー</a></p>
+        <p><a href="palladium/palladium&initiative.html">パラジウムについて</a></p>
+        <p><a href="access/access.html">アクセス</a></p>
+      </div>
+      <div class="footer-middle2">
+        <p><a href="service/Service.html">修理と手入れ</a></p>
+        <p><a href="palladium/palladium&initiative.html">環境への配慮</a></p>
+        <p><a href="gallery/Gallery.html">ギャラリー</a></p>
+        <p><a href="inquiry/inquiry.html">問い合わせ</a></p>
+      </div>
+      <div class="footer-right">
+        <form action="index.html" method="post" form name="newsletter-form">
+          <h1>最新のニュースを受け取る</h1>
+          <input type="email" id="email" name="email" required placeholder="info@example.com">
+          <button type="submit" class="button2">登録</button>
+        </form>
+      </div>
+    </div>
+    <div class="copyright"><p>©2023 Alter Jewelry Ltd.</p></div>
+    <p class="credit">Credit:<a href="https://www.vecteezy.com/free-vector/sustainable">Sustainable Vectors by Vecteezy</a></p>
+  </footer>
+</body>
+<!---------------フッターここまで---------------------->
+
